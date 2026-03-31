@@ -1,0 +1,37 @@
+GNU AFFERO GENERAL PUBLIC LICENSE
+Version 3, 19 November 2007
+
+Copyright (C) 2026 tal7aouy
+
+This program is free software: you can redistribute it and/or modify
+it under the terms of the GNU Affero General Public License as published
+by the Free Software Foundation, either version 3 of the License, or
+(at your option) any later version.
+
+This program is distributed in the hope that it will be useful,
+but WITHOUT ANY WARRANTY; without even the implied warranty of
+MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+GNU Affero General Public License for more details.
+
+You should have received a copy of the GNU Affero General Public License
+along with this program.  If not, see <https://www.gnu.org/licenses/>.
+
+Additional Terms:
+
+1. ETHICAL USE ONLY: This software is intended for educational purposes,
+   authorized security testing, and research only. Unauthorized access to
+   computer systems is illegal.
+
+2. NO WARRANTY: The authors and copyright holders provide this software
+   "as is" without warranty of any kind, either expressed or implied.
+
+3. LIMITATION OF LIABILITY: In no event shall the authors or copyright
+   holders be liable for any claim, damages, or other liability arising
+   from the use of this software.
+
+4. NETWORK USE: If you modify this program and make it available over a
+   network, you must make the complete source code of your modified version
+   available under the same license.
+
+For the full text of the GNU AGPL v3, visit:
+https://www.gnu.org/licenses/agpl-3.0.html
