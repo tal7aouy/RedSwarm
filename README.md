@@ -8,8 +8,6 @@
 [![Vue](https://img.shields.io/badge/vue-3.x-green.svg)](https://vuejs.org/)
 [![Anthropic](https://img.shields.io/badge/AI-Anthropic%20Claude-orange.svg)](https://www.anthropic.com/)
 
-![RedSwarm simulation dashboard — attack graph, agents, and attack chain](static/redswarm.gif)
-
 **RedSwarm** is a multi-agent AI red teaming simulator that models real-world attacker behavior — not just tool automation.
 
 Upload a target scope (IP, domain, or lab environment), and RedSwarm deploys a swarm of AI agents, each with unique personas (APT groups, script kiddies, insiders), memory, and tactics. They autonomously recon, chain exploits, pivot, and report — just like real attackers.
